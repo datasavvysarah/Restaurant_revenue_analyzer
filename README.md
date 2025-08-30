@@ -69,10 +69,11 @@ The project addresses 10 fundamental business questions:
 ```
 restaurant_revenue_analyzer/
 │
-|── README.md                          # Project documentation
-├── Python_SalesData.xlsx - Raw.csv    # Raw sales data
-├── sales_analysis.ipynb               # Jupyter notebook with analysis
+|── Python_SalesData.xlsx - Raw.csv    # Raw sales data
+├── README.md                          # Project documentation
 ├── analysis.py                        # Python script version
+├── sales_analysis.ipynb               # Jupyter notebook with analysis
+
 ```
 
 ## Installation
