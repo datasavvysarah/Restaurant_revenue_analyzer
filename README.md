@@ -79,6 +79,7 @@ restaurant_revenue_analyzer/
 
 1. Clone or download the project files
 2. Install required dependencies:
+   
 ```bash
 pip install pandas matplotlib seaborn numpy
 ```
@@ -87,8 +88,8 @@ pip install pandas matplotlib seaborn numpy
 
 ### Running the Analysis
 
-1. **Jupyter Notebook**: Open `analysis.ipynb` in Jupyter Notebook or JupyterLab
-2. **Python Script**: Run `python analysis.py` from the command line
+1. **Jupyter Notebook**: Open `sales_analysis.ipynb` in Jupyter Notebook or JupyterLab
+2. **Python Script**: Run `analysis.py` from the command line
 
 ### Data Input
 - Place your sales data CSV file in the project directory
